@@ -1,0 +1,2 @@
+MainPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\Calculator_v3\Calculator_v3\bin\x64\Release\Calculator_v3_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\Calculator_v3\Calculator_v3\AppPackages\Calculator_v3_1.1.1.0_Test\Calculator_v3_1.1.1.0_x64.appxsym
